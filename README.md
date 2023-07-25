@@ -1,7 +1,7 @@
 ### Hi Pessoas 👋
 
 ### Sobre mim 
-Apreendendo progamação e buscando conhecimento para área fiz meu primeiro projeto chamado TIKTOK CLONE / EBAC
+Apreendendo progamação e buscando conhecimento para área fiz meu primeiro projeto em java Script , react , html e css
 
 
 ####Detalhes
