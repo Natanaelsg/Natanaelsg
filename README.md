@@ -18,9 +18,6 @@ Apreendendo progamação e buscando conhecimento para área fiz meu primeiro pro
 
 
 
-###Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natanaelsg&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ###Contatos
