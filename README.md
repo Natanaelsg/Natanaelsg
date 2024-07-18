@@ -30,7 +30,7 @@ Atualmente estudando **JavaScript** na [DIO.com](https://dio.me)  Tenho experiê
 
 ## 🌟 Destaques
 
-### JavaScript - Formação na DIO.com e CI&T
+### JavaScript - Formação na DIO.com 
 - Estudando a fundo JavaScript e suas aplicações no desenvolvimento web.
 
 ### Projetos Recentes
